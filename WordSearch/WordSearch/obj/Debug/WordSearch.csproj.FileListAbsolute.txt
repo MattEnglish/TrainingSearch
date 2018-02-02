@@ -1,0 +1,7 @@
+C:\Work\Training\Search\WordSearch\WordSearch\bin\Debug\WordSearch.exe.config
+C:\Work\Training\Search\WordSearch\WordSearch\bin\Debug\WordSearch.exe
+C:\Work\Training\Search\WordSearch\WordSearch\bin\Debug\WordSearch.pdb
+C:\Work\Training\Search\WordSearch\WordSearch\obj\Debug\WordSearch.csprojResolveAssemblyReference.cache
+C:\Work\Training\Search\WordSearch\WordSearch\obj\Debug\WordSearch.csproj.CoreCompileInputs.cache
+C:\Work\Training\Search\WordSearch\WordSearch\obj\Debug\WordSearch.exe
+C:\Work\Training\Search\WordSearch\WordSearch\obj\Debug\WordSearch.pdb
